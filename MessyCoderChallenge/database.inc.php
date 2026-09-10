@@ -13,12 +13,11 @@
         die("MySQLi PHP-extensie is niet ingeschakeld. Schakel deze in php.ini.");
     }
 
-    // Maak verbinding met de database
-    $conn = mysqli_connect($host, $username, $password, $database);
-
-    // Controleer de verbinding
-    if (!$conn) {
-        die("Verbinding mislukt: " . mysqli_connect_error());
+    // Maak verbinding met de database (vang eventuele exceptions op)
+    try {
+        $conn = mysqli_connect($host, $username, $password, $database);
+    } catch (mysqli_sql_exception $e) {
+        die("Verbinding mislukt: " . $e->getMessage() . " - Controleer gebruikersnaam/wachtwoord/host.");
     }
 
 ?>
