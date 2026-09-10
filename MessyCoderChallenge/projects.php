@@ -116,7 +116,7 @@
     }
     
     .dark-mode .dark-toggle::before {
-        content: "";
+        content: "🌑";
     }
 
     main {
