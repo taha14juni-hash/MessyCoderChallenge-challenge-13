@@ -12,10 +12,9 @@
     $conn = mysqli($host, $username, $password, $database); 
 
     // Controleer de verbinding
-    if ($conn->connect_error) { 
-        do("Verbinding mislukt: " . $conn->connect_error); } 
-    else 
-        {
+    if ($conn->connect_error) 
+        do("Verbinding mislukt: " . $conn->connect_error); 
+    else{
         echo "Verbinding geslaagd!";
     }
 ?>
