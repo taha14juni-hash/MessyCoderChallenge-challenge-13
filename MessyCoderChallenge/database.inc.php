@@ -9,7 +9,7 @@
     $database = "db_awfulportfolio"; //de naam van de database die je aanmaakt
 
     // Maak verbinding met de database
-    $conn = new mysqli($host, $username, $password, $database); 
+    $conn = mysqli($host, $username, $password, $database); 
 
     // Controleer de verbinding
     if ($conn->connect_error) { 
