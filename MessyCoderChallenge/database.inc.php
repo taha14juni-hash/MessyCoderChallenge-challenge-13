@@ -14,7 +14,8 @@
     // Controleer de verbinding
     if ($conn->connect_error) { 
         do("Verbinding mislukt: " . $conn->connect_error); 
-    } else {
+    } else 
+        {
         echo "Verbinding geslaagd!";
     }
 ?>
