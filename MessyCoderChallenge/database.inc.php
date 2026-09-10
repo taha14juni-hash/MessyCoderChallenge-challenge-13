@@ -5,7 +5,7 @@
     // Dit moet nog opgelost worden, dit is een security issue //
     $host = "localhost";
     $username = "root"; // default is root
-    $password = "strongpassword"; //default is leeg of root
+    $password = "root"; //default is leeg of root
     $database = "db_awfulportfolio"; //de naam van de database die je aanmaakt
 
     // Maak verbinding met de database
