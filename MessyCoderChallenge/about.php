@@ -155,7 +155,7 @@
     <p>Student Software Developer op het Vista College</p>
     <nav>
       <ul>
-        <li><a href="about.php">Over Mij</a></li>
+        <li><a href="overmij.php">Over Mij</a></li>
         <li><a href="projects.php">Projecten</a></li>
         <li><a href="kerntaken.php">Kerntaken</a></li>
         <li><a href="contact.php">Contact</a></li>
