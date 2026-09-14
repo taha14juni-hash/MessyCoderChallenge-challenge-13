@@ -5,7 +5,7 @@
     // Dit moet nog opgelost worden, dit is een security issue //
     $host = "localhost";
     $username = "root"; // default is root
-    $password = "root"; //default is leeg of root
+    $password = "password1223"; //default is leeg of root
     $database = "db_awfulportfolio"; //de naam van de database die je aanmaakt
 
     // Controleer of de MySQLi-extensie beschikbaar is
@@ -27,3 +27,4 @@
 <html lang="nl">
 <head>
                  
+
