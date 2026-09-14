@@ -168,7 +168,7 @@
     <p>Tijdens mijn studie ben ik bezig geweest met verschillende projecten, van kleine apps tot grotere websites. Door deze ervaringen heb ik veel geleerd over het ontwerpen en bouwen van software, en hoe je samen met anderen het beste resultaat behaalt.</p>
     <p>Ik ben altijd op zoek naar nieuwe uitdagingen en samenwerkingen, dus stuur gerust een berichtje als je interesse hebt om samen te werken of gewoon vragen hebt!</p>
   </main>
-
+<img src="4048c8a0-b3b9-46db-a0a2-53a05ba98b55.jpg" alt="Contact" style="width: 10px height: 10px; display: block; margin: 0 auto;">
   <footer>
     © <?php print date('Y'); ?> Swarley & CO
   </footer>
