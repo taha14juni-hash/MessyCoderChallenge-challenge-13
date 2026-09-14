@@ -6,7 +6,7 @@
     $host = "localhost";
     $username = "root"; // default is root
     $password = "password1223"; //default is leeg of root
-    $database = "db_awfulportfolio"; //de naam van de database die je aanmaakt
+    $database = "db_portfolio"; //de naam van de database die je aanmaakt
 
     // Controleer of de MySQLi-extensie beschikbaar is
     if (!function_exists('mysqli_connect')) {
