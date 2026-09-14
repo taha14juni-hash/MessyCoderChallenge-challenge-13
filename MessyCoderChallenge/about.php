@@ -159,6 +159,7 @@
         <li><a href="projects.php">Projecten</a></li>
         <li><a href="kerntaken.php">Kerntaken</a></li>
         <li><a href="contact.php">Contact</a></li>
+        <li><a href="login.php">Login</a></li>
       </ul>
     </nav>
     <div class="mountains"></div>
@@ -169,7 +170,7 @@
   </main>
 
   <footer>
-    © 2025 Swarley
+    © <?php print date('Y'); ?> Swarley & CO
   </footer>
 
 </body>

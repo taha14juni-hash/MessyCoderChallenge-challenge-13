@@ -190,7 +190,7 @@
   </main>
 
   <footer>
-    © 2025 Swarley
+     © <?php print date('Y'); ?> Swarley & CO
   </footer>
 
 </body>

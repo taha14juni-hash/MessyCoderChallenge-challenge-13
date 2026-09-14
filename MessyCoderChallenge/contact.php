@@ -172,7 +172,7 @@
   </main>
 
   <footer>
-    © <?php print date('Y')+3; ?> Swarley & CO
+    © <?php print date('Y'); ?> Swarley & CO
   </footer>
 
 </body>
