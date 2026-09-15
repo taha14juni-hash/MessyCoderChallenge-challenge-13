@@ -151,7 +151,7 @@
 <body>
   <button class="dark-toggle" onclick="toggleDarkMode()"></button>
   <header>
-    <h1><a href=".">Lorenzo van Matterhorn</a></h1>
+    <h1>Lorenzo van Matterhorn</h1>
     <p>Student Software Developer op het Vista College</p>
     <nav>
       <?php require_once("mainmenu.php"); ?>
