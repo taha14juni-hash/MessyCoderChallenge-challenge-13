@@ -208,6 +208,7 @@
     <p>Ik ben altijd op zoek naar nieuwe uitdagingen en samenwerkingen, dus stuur gerust een berichtje als je interesse hebt om samen te werken of gewoon vragen hebt!</p>
   </main>
   <section class="media-section">
+    <h2>Hier is een foto van mij:</h2>
     <img src="4048c8a0-b3b9-46db-a0a2-53a05ba98b55.jpg" alt="Lorenzo van Matterhorn">
     <div class="video-container">
       <h2>een van mijn projecten</h2>
