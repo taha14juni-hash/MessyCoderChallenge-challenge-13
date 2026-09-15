@@ -158,9 +158,7 @@
     </nav>
     <div class="mountains"></div>
   </header>
-
-  <nav> </nav>
-  <main></main>
+  
   <main>
     <h1>Hoe kom je in contact met mij?</h1>
     <p>Hoi! Ik ben Lorenzo van Matterhorn, een enthousiaste en leergierige student software developer op het Vista College. Met een passie voor technologie en programmeren werk ik hard om mijn vaardigheden te verbeteren en coole software te maken die mensen echt kunnen gebruiken.</p>
