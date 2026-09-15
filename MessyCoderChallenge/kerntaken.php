@@ -178,7 +178,7 @@
       <li><a href="<?php print $pathToKerntakenDirectory; ?>b1k1w1.php">B1-K1-W1 - Stemt opdracht af, plant werkzaamheden en bewaakt de voortgang</a></li>
       <li><a href="<?php print $pathToKerntakenDirectory; ?>b1k1w2.php">B1-K1-W2 - Maakt een technisch ontwerp voor software</a></li>
       <li><a href="<?php print $pathToKerntakenDirectory; ?>b1k1w3.php">B1-K1-W3 - Realiseert (onderdelen van) software</a></li>
-      <li><a href="kerntaken/b1k1w4.php">B1-K1-W4 - Test software</a></li>
+      <li><a href="b1k1w4.php">B1-K1-W4 - Test software</a></li>
       <li><a href="<?php print $pathToKerntakenDirectory; ?>  b1k1w5.php">B1-K1-W5 - Doet verbetervoorstellen voor de software</a></li>
     </ul>
     <h2>Voert ICT-projecten uit</h2>
