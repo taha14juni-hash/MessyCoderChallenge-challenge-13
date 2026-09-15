@@ -163,7 +163,15 @@
 
   <main>
     <h1>B1-K1-W1</h1>
-    <p>VUL MET DATABASE</p>
+    <title>Stemt opdracht af, plant werkzaamheden en bewaakt de voortgang</title>
+    <p>Omschrijving
+De beginnend beroepsbeoefenaar stemt af met de opdrachtgever/ leidinggevende/ belanghebbenden (vanuit een
+functioneel ontwerp) wat er ontwikkeld moet worden, welke doelen behaald moeten worden, en wanneer het klaar
+moet zijn. Tijdens het ontwikkelproces houdt de beginnend beroepsbeoefenaar bij wat is gedaan, welke taken nog
+uitgevoerd moeten worden en gaat na of de planning in gevaar komt. De beginnend beroepsbeoefenaar meldt
+opdrachtgever/ leidinggevende/ belanghebbenden wanneer doelen en/of planning niet worden gehaald en zoekt in
+overleg naar een (tussen)oplossing.
+</p>
   </main>
 
   <footer>
