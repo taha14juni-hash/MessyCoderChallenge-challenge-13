@@ -159,8 +159,6 @@
     <div class="mountains"></div>
   </header>
 
-  <nav> </nav>
-  <main></main>
   <main>
     <h1>Hoe kom je in contact met mij?</h1>
     <p>Hoi! Ik ben Lorenzo van Matterhorn,</p>
