@@ -171,7 +171,7 @@
       <li><a href="project3.php">Project 3: Blog Systeem</a></li>
       <li><a href="project4.php">Project 4: Chat Applicatie</a></li>
     </ul>
-
+</main>
 
   <footer>
     © <?php echo date("Y"); ?> Swarley & CO
