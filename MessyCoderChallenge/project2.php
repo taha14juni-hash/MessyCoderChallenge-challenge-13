@@ -167,20 +167,16 @@
   
     <ul>
       <li><a href="project1.php">Project 1: Portfolio Website</a></li>
-      <li><a href="project2.php">Project 2: E-commerce Platform</a></li>
+      <li><a href="project2.php">Project 2: mees kantine</a></li>
       <li><a href="project3.php">Project 3: pokedex</a></li>
       <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
     </ul>
-  <h2>Project 3: pokedex</h2>
-<p>Voor deze opdracht moesten we werken met de database van Pokemon. Hier heb ik er een spel mee gemaakt.</p>
-<p>In mijn vrije tijd werk ik aan persoonlijke projecten, zodat ik kan verbeteren en ook een beetje met andere computertalen kan spelen.</p>
-<image src="Schermopname_17-9-2026_125437_outlook.office.com.jpeg" alt="Pokedex" style="width:100%;max-width:600px;">
-<img src="Schermafbeelding 2026-09-17 125454.png" alt="Pokedex" style="width:100%;max-width:600px;">
-</image>
-
-</main>  
-
-<footer>
+  </main>
+<P>mees kantine is een project dat ik heb gemaakt voor mijn opleiding. Het is een kantine systeem dat gebruikt kan worden om bestellingen te plaatsen en te beheren.</P>
+<P>Het project is gemaakt met PHP, MySQL, HTML, CSS en JavaScript.</P>
+<img src="c5d4fcd7-0e0d-401e-bbdd-83f9ef7b0eb1.png" alt="mees kantine screenshot" style="width:100%;max-width:600px;">
+<img src="77499203-21a0-48f5-b503-eeec2f4258e2.png" alt="mees kantine screenshot" style="width:100%;max-width:600px;">
+  <footer>
     © <?php echo date("Y"); ?> Swarley & CO
   </footer>
 

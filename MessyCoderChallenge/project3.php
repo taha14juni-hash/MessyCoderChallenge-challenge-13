@@ -171,9 +171,16 @@
       <li><a href="project3.php">Project 3: pokedex</a></li>
       <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
     </ul>
-  </main>
+  <h2>Project 3: pokedex</h2>
+<p>Voor deze opdracht moesten we werken met de database van Pokemon. Hier heb ik er een spel mee gemaakt.</p>
+<p>In mijn vrije tijd werk ik aan persoonlijke projecten, zodat ik kan verbeteren en ook een beetje met andere computertalen kan spelen.</p>
+<image src="Schermopname_17-9-2026_125437_outlook.office.com.jpeg" alt="Pokedex" style="width:100%;max-width:600px;">
+<img src="Schermafbeelding 2026-09-17 125454.png" alt="Pokedex" style="width:100%;max-width:600px;">
+</image>
 
-  <footer>
+</main>  
+
+<footer>
     © <?php echo date("Y"); ?> Swarley & CO
   </footer>
 
