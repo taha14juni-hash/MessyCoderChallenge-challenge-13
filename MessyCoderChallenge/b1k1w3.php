@@ -171,7 +171,7 @@ schrijft de benodigde code en integreert waar nodig (aangeleverde) assets zoals 
 bibliotheken, code van anderen. De beginnend beroepsbeoefenaar brengt logica, overzicht en efficiëntie aan in
 objecten, klassen en/of onderlinge relaties. De beginnend beroepsbeoefenaar controleert of het werk voldoet aan
 gangbare code conventies en eisen rond efficiëntie, privacy, veiligheid en toegankelijkheid.</p>
-<img src="bewijs.jpg" alt="Mijn foto">
+<img src="bewijs.jpg">
 
   </main>
 
