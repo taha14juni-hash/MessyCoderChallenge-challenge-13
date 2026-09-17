@@ -206,6 +206,9 @@
         <li><a href="project1.php">Project 1: Portfolio Website</a></li>
         <li><a href="project2.php">Project 2: E-commerce Platform</a></li>
         <li><a href="project3.php">Project 3: Blog Systeem</a></li>
-        <li><a href="project4.php">Project 4: Chat Applicatie</a></li>
+        <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
         </ul>
-<p>Project 4: Chat Applicatie</p>
+<p>Project 4: logistiek opdracht</p>
+<video width="640" height="360" controls>
+  <source src="project4.mp4" type="Document en nog 7 andere pagina's - Persoonlijk - Microsoft​ Edge 2025-12-15 11-14-26.mp4">
+  Your browser does not support the video tag.

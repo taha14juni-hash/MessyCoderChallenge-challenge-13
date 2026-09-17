@@ -169,7 +169,7 @@
       <li><a href="project1.php">Project 1: Portfolio Website</a></li>
       <li><a href="project2.php">Project 2: E-commerce Platform</a></li>
       <li><a href="project3.php">Project 3: Blog Systeem</a></li>
-      <li><a href="project4.php">Project 4: Chat Applicatie</a></li>
+      <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
     </ul>
 </main>
 
