@@ -163,13 +163,15 @@
 
   <main>
     <h1>Projecten</h1>
-   <p>Hieronder vindt u een overzicht van mijn projecten. Klik op de links om meer te leren over elk project.</p>
+  <p>Hieronder vindt u een overzicht van mijn projecten. Klik op de projectnaam voor meer details.</p>
+  
     <ul>
       <li><a href="project1.php">Project 1: Portfolio Website</a></li>
       <li><a href="project2.php">Project 2: E-commerce Platform</a></li>
       <li><a href="project3.php">Project 3: Blog Systeem</a></li>
       <li><a href="project4.php">Project 4: Chat Applicatie</a></li>
     </ul>
+
 
   <footer>
     © <?php echo date("Y"); ?> Swarley & CO
