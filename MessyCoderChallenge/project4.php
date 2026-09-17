@@ -208,7 +208,8 @@
         <li><a href="project3.php">Project 3: pokedex</a></li>
         <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
         </ul>
-<p>Project 4: logistiek opdracht</p>
+<h3>Project 4: logistiek opdracht</h3>
+<p>Voor deze opdracht moesten we een logistiek website maken. In deze video kun je zien hoe de website werkt.</p>
 <video width="640" height="360" controls>
   <source src="project4.mp4" type="Document en nog 7 andere pagina's - Persoonlijk - Microsoft​ Edge 2025-12-15 11-14-26.mp4">
 Your browser does not support the video tag.
