@@ -208,4 +208,11 @@
         <li><a href="project3.php">Project 3: pokedex</a></li>
         <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
         </ul>
-<p>Project 4: logistiek opdracht</p>
+<p>Project 1: portfolio website</p>
+</main>
+<footer>
+    © <?php echo date("Y"); ?> Swarley & CO
+  </footer>
+
+</body>
+</html>

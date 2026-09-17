@@ -171,12 +171,14 @@
       <li><a href="project3.php">Project 3: pokedex</a></li>
       <li><a href="project4.php">Project 4: logistiek opdracht</a></li>
     </ul>
-  </main>
+  
 <P>mees kantine is een project dat ik heb gemaakt voor mijn opleiding. Het is een kantine systeem dat gebruikt kan worden om bestellingen te plaatsen en te beheren.</P>
 <P>Het project is gemaakt met PHP, MySQL, HTML, CSS en JavaScript.</P>
 <img src="c5d4fcd7-0e0d-401e-bbdd-83f9ef7b0eb1.png" alt="mees kantine screenshot" style="width:100%;max-width:600px;">
 <img src="77499203-21a0-48f5-b503-eeec2f4258e2.png" alt="mees kantine screenshot" style="width:100%;max-width:600px;">
-  <footer>
+  </main>
+
+<footer>
     © <?php echo date("Y"); ?> Swarley & CO
   </footer>
 

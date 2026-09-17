@@ -211,4 +211,11 @@
 <p>Project 4: logistiek opdracht</p>
 <video width="640" height="360" controls>
   <source src="project4.mp4" type="Document en nog 7 andere pagina's - Persoonlijk - Microsoft​ Edge 2025-12-15 11-14-26.mp4">
-  Your browser does not support the video tag.
+Your browser does not support the video tag.
+</main>
+  <footer>
+    © <?php echo date("Y"); ?> Swarley & CO
+  </footer>
+
+</body>
+</html>
