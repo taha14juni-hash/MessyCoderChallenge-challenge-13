@@ -141,6 +141,47 @@
       text-align: center;
       padding: 15px;
     }
+
+    .media-section {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+      margin: 30px auto;
+      max-width: 960px;
+    }
+
+    .media-section img {
+      height: 200px;
+      width: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+
+    .video-container {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .video-container h2 {
+      margin-top: 0;
+    }
+
+    .video-container video {
+      display: block;
+      width: 100%;
+      max-width: 600px;
+    }
+
+    @media (max-width: 700px) {
+      .media-section {
+        flex-direction: column;
+      }
+
+      .video-container {
+        width: 100%;
+      }
+    }
   </style>
   <script>
     function toggleDarkMode() {
@@ -166,8 +207,18 @@
     <p>Tijdens mijn studie ben ik bezig geweest met verschillende projecten, van kleine apps tot grotere websites. Door deze ervaringen heb ik veel geleerd over het ontwerpen en bouwen van software, en hoe je samen met anderen het beste resultaat behaalt.</p>
     <p>Ik ben altijd op zoek naar nieuwe uitdagingen en samenwerkingen, dus stuur gerust een berichtje als je interesse hebt om samen te werken of gewoon vragen hebt!</p>
   </main>
-
-  <footer>
+  <section class="media-section">
+    <h2>Hier is een foto van mij:</h2>
+    <img src="4048c8a0-b3b9-46db-a0a2-53a05ba98b55.jpg" alt="Lorenzo van Matterhorn">
+    <div class="video-container">
+      <h2>een van mijn projecten</h2>
+      <video controls>
+        <source src="qr scanner voorbeeld.mp4" type="video/mp4">
+        Je browser ondersteunt geen video's.
+      </video>
+    </div>
+  </section>
+<footer>
     © <?php print date('Y'); ?> Swarley & CO
   </footer>
 
