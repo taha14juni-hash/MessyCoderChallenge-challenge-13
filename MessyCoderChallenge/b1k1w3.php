@@ -163,7 +163,16 @@
 
   <main>
     <h1>B1-K1-W3</h1>
-    <p>VUL MET DATABASE</p>
+    <h2>Realiseert (onderdelen van) software</h2>
+    <h3>Omschrijving</h3>
+<p>De beginnend beroepsbeoefenaar werkt aan het ontwikkelen van (onderdelen van) software voor het
+(deel)ontwerp. De beginnend beroepsbeoefenaar programmeert de software. De beginnend beroepsbeoefenaar
+schrijft de benodigde code en integreert waar nodig (aangeleverde) assets zoals bijvoorbeeld video, mediamateriaal,
+bibliotheken, code van anderen. De beginnend beroepsbeoefenaar brengt logica, overzicht en efficiëntie aan in
+objecten, klassen en/of onderlinge relaties. De beginnend beroepsbeoefenaar controleert of het werk voldoet aan
+gangbare code conventies en eisen rond efficiëntie, privacy, veiligheid en toegankelijkheid.</p>
+<img src="bewijs.jpg" alt="Mijn foto">
+
   </main>
 
   <footer>
